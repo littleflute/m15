@@ -1,4 +1,4 @@
-[v0.0.7](https://github.com/littleflute/m15/edit/master/Paul%20McCartney/readme.md)
+[v0.0.8](https://github.com/littleflute/m15/edit/master/Paul%20McCartney/readme.md)
 
 [McCartney/cd1](McCartney/cd1)
 
@@ -15,3 +15,7 @@
 [Pipes of peace/cd2](Pipes of peace/cd2)
 
 [Unplugged](Unplugged/cd)
+
+[Venus and Mars/cd1](Venus and Mars/cd1)
+
+[Venus and Mars/cd2](Venus and Mars/cd2)
